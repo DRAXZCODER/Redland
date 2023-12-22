@@ -1,0 +1,5 @@
+module.exports = {
+  name : "info",
+  code : `$description[Hello There **$username** | Info Of **RedLand Battle Royale **$addField[<:DwaparaStudio:1138303616663437422> Info;
+**Immerse yourself in the world of our groundbreaking Indian Battle Royale game "Red Land" , a captivating experience that seamlessly weaves Indian culture into the gameplay.** ** Developed by the dedicated indie team "Dwapara Studio," our game is a labor of love that reflects our passion for both gaming and Indian heritage.** ** While our limited manpower may extend the development timeline, we're committed to delivering an exceptional game by the end of 2023, with the first beta tests starting in 2024**. **Join us on this exciting journey, and please spread the word among your friends to support our endeavor!**]]$color[#C0C0c0]$thumbnail [$userAvatar[879567178809114634]]`
+}

@@ -1,0 +1,5 @@
+module.exports = {
+  name: "shop",
+  aliases: "redeem",
+  code: `$title[Redland X-MAS Event Store]$thumbnail[$userAvatar[879567178809114634]]$description[RedLand X-MAS Store Is Here , Buy Your Favourite Items From The Store By Typing \`+claim <itemcode> \`]$addField[<:binoculars:1172800278291038208> Sneak Peek ;>>> These Tokens Can Be Collected and Exchanged In Future Events Also]$addField[ <:christmascap:1181939715646177340> RedLand X-MAS Store;>>> <:Top1:1127210955005231195> Exclusive InGame Badge : Top 3 (include all events)\n(et) <:title:1172215271507886211> Exclusive In Game Title : 100 Tokens\n(em) <:mostvalue:1127631276871008377> Exclusive Member Role : 70 Tokens\n(db) <:doublearrow:1172214878862319627> Double Booster : 40 Tokens\n(gc) <a:cooldown1:1172798334331797505> 1HR Cooldown Boost : 25 Tokens\n(sc) <:cooldown:1172215047842435146> 15M Cooldown Boost : 15 Tokens\n(mb) <:mysterybox:1172791189322346517> Mystery Box : 10 Tokens]`
+}
